@@ -1,6 +1,6 @@
 # Trem Ágil 🚂💡
 
-Bem-vindo à página do Github da Trem Ágil!
+Bem-vindo à página do Github da Trem Ágil! Sinta-se à vontade para explorar nossos repositórios e colaborar com a nossa comunidade.
 
 ![Trem Ágil](/images/CapaGithub.png)
 
